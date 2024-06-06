@@ -1,4 +1,4 @@
-Fairies Arrangement - A-star and Heuristics
+# 2.1. Fairies Arrangement - A* Algorithm and Heuristics
 
 Data Structure:
 - State: The state represents the current state of fairies in a row.
