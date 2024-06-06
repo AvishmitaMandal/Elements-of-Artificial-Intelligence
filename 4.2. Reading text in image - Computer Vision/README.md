@@ -1,4 +1,4 @@
-## **Reading text in image - Computer Vision**
+# 4.2. Reading text in image - Computer Vision
 ### (1)Description of how you formulated each problem; 
 
 There are two parts to it:
