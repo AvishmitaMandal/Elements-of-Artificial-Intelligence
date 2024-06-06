@@ -1,4 +1,4 @@
-## Raichu - AI Game - Adversarial Search
+# 3.1. AI Game - Raichu - Adversarial Search
 
 1.  **Initial State:** The initial state of the board is given as an N*N matrix which represents the size of the board, the game consists of 3 types of players(Pichu, Pikachu and Raichu), and has 2 players white and black. At any given point in time, there is exactly one player who is currently playing.
 2.  **Goal State:** The Goal state will be to make a move to maximize the win of the current player.
