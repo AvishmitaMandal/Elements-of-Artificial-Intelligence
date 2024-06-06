@@ -1,6 +1,8 @@
-P-<#> : Problem-#1 (for example)
-R-<#> : Reason-#1 (for example)
-SA-<#> : Solution Approach-#1 (for example)
+# 1.2. Turrets placement using DFS Traversal
+
+P-<#> : Problem-#1 (for example)\
+R-<#> : Reason-#1 (for example)\
+SA-<#> : Solution Approach-#1 (for example)\
 ST : Solution Approach Taken
 
     Placing Turrets question
