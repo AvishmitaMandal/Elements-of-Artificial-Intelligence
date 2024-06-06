@@ -1,4 +1,4 @@
-### Part of Speech Tagging - HMM (Viterbi Algorithm), NLP
+# 4.1. Part of Speech Tag - HMM (Viterbi Algorithm), NLP
 
 ### (1)Description of how you formulated each problem; 
 
