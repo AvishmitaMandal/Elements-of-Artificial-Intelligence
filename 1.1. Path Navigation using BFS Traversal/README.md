@@ -1,6 +1,6 @@
-P-<#> : Problem-#1 (for example)
-R-<#> : Reason-#1 (for example)
-SA-<#> : Solution Approach-#1 (for example)
+P-<#> : Problem-#1 (for example)\
+R-<#> : Reason-#1 (for example)\
+SA-<#> : Solution Approach-#1 (for example)\
 ST : Solution Approach Taken
 
 PART-1 :
