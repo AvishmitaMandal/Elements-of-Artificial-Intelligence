@@ -1,4 +1,4 @@
-5 x 5 Grid 2023 puzzle
+# 2.2. 2023 Puzzle - A* Search and Heuristic Design
 
 Data structure : Priority Queue (Heap - Sorted Binary Tree)
 Algorithm : A* search 
