@@ -1,4 +1,4 @@
-Robust Transportation - A-star and Heuristic Design
+# 2.3. Robust Transportation - A* Algorithm and Admissible Heuristics
 
 Data structure : Heap priority queue
 
