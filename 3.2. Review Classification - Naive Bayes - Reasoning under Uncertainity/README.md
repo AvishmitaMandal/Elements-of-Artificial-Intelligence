@@ -1,4 +1,4 @@
-Naive Bayes Classifier for Review Classification
+3.2. Review Classification - Naive Bayes - Reasoning under Uncertainity
 
 ###  (1) a description of how you formulated each problem;
 
